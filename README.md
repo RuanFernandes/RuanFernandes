@@ -22,4 +22,4 @@ Olá, sou **Ruan Fernandes Guimarães**, um apaixonado desenvolvedor de software
 ![RuanFernandes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanFernandes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
-Seja livre para explorar meus repositórios e entrar em contato! 😊
+Seja livre para entrar em contato! 😊
