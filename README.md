@@ -1,10 +1,10 @@
 
 # Bem-vindo ao meu GitHub! 👋
 
-Olá, sou **Ruan Fernandes Guimarães**, um apaixonado desenvolvedor de software com **19 anos**. Atualmente, estou estudando na **Universidade Federal de Lavras (UFLA)**, onde aprimoro minhas habilidades em programação e exploro novas tecnologias.
+Olá, sou **Ruan Fernandes Guimarães**, um apaixonado desenvolvedor de software com **20 anos**. Atualmente, estou estudando na **Universidade Federal de Lavras (UFLA)**, onde aprimoro minhas habilidades em programação e exploro novas tecnologias.
 
 ## Sobre Mim
-- 🌐 Trabalho com **desenvolvimento web** há **2 anos**, principalmente com **TypeScript** e **PHP**.
+- 🌐 Trabalho com **desenvolvimento web** há **4 anos**, principalmente com **TypeScript** e **PHP**.
 - 🚀 Tenho experiência em projetos **fullstack**, utilizando tecnologias como **Node.js**, **React**, **Express**, **NestJS**.
 - 💻 Também desenvolvo **aplicações desktop** em **C#**.
 - 📱 Já criei aplicativos **mobile** usando **React Native**.
