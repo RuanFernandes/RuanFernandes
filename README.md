@@ -11,14 +11,6 @@ Olá, sou **Ruan Fernandes Guimarães**, um apaixonado desenvolvedor de software
 - 🎮 Além disso, fui desenvolvedor autônomo dos jogos **GraalOnline Zodiac**, **Ol' West** e **iClassic**.
 
 ## Estatísticas do GitHub
-<!-- Insira suas estatísticas do GitHub aqui -->
-<!-- Você pode gerar esses dados usando ferramentas como https://github.com/anuraghazra/github-readme-stats -->
-<!-- Exemplo: -->
-<!-- !Estatísticas do GitHub -->
-
-<!-- Deixe um espaço para que você possa adicionar suas próprias estatísticas do GitHub. -->
-![RuanFernandes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RuanFernandes&theme=vue-dark&hide_border=true)
-![RuanFernandes's Stats](https://github-readme-stats.vercel.app/api?username=RuanFernandes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![RuanFernandes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanFernandes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
