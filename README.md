@@ -42,25 +42,6 @@ Sou um desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, a
 
 ---
 
-## 📌 Experiências Técnicas Relevantes
-
-### 🔧 Projetos Realizados
-- **Sistema Web para Museus e Artistas**  
-  Plataforma para exposição digital com autenticação, gerenciamento de obras e curadoria.  
-  _Stack: PHP + MySQL + Docker_
-
-- **App Mobile de Gestão de Frotas**  
-  Aplicativo para gerenciamento logístico, com dashboards e notificações.  
-  _Stack: React Native_
-
-### 💼 Análise de Sistemas & Negócio
-- Levantamento de requisitos com stakeholders  
-- Modelagem de processos em **BPMN**  
-- Diagramas de casos de uso e classes (**UML**)  
-- Interface entre áreas técnicas e comerciais  
-
----
-
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanFernandes&theme=github_dark&layout=compact)
