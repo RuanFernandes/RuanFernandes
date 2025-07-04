@@ -7,46 +7,38 @@ Sou um desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, a
 ## 🧰 Tecnologias & Stacks
 
 ### 🎨 Frontend  
-[<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="30"/>](https://react.dev)
-[<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="30"/>](https://reactnative.dev)
-[<img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="30"/>](https://nextjs.org)
-[<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="30"/>](https://www.typescriptlang.org)
-[<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="30"/>](https://tailwindcss.com)
-[<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=fff)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
 ### 🖥️ Backend  
-[<img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="30"/>](https://nodejs.org)
-[<img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="30"/>](https://nestjs.com)
-[<img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="30"/>](https://expressjs.com)
-[<img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET Core" width="30"/>](https://dotnet.microsoft.com)
-[<img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="30"/>](https://www.php.net)
-
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 
 ### 🗄️ Banco de Dados  
-[<img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="30"/>](https://www.postgresql.org)
-[<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="30"/>](https://www.mysql.com)
-[<img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="30"/>](https://www.prisma.io)
-
-<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
 
 ### 🛠️ DevOps & Ferramentas  
-[<img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="30"/>](https://www.docker.com)
-[<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="30"/>](https://git-scm.com)
-[<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="30"/>](https://github.com)
-[<img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="30"/>](https://www.postman.com)
-[<img src="https://cdn.simpleicons.org/jira/0052CC" alt="JIRA" width="30"/>](https://www.atlassian.com/software/jira)
-
-<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 
 ### ✅ Testes & Qualidade  
-[<img src="https://cdn.simpleicons.org/jest/C21325" alt="Jest" width="30"/>](https://jestjs.io)
-[<img src="https://cdn.simpleicons.org/insomnia/4000BF" alt="Insomnia" width="30"/>](https://insomnia.rest)
-[<img src="https://cdn.simpleicons.org/robotframework/000000" alt="Robot Framework" width="30"/>](https://robotframework.org)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge)
 
 ---
 
@@ -61,15 +53,11 @@ Sou um desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, a
   Aplicativo para gerenciamento logístico, com dashboards e notificações.  
   _Stack: React Native_
 
-- **SaaS de Treinos para Personais** *(em desenvolvimento)*  
-  Plataforma web para gestão de alunos, treinos e cobranças via WhatsApp.  
-  _Stack: React + NestJS + PostgreSQL_
-
 ### 💼 Análise de Sistemas & Negócio
-- Levantamento de requisitos com stakeholders
-- Modelagem de processos em **BPMN**
-- Diagramas de casos de uso e classes (**UML**)
-- Interface entre áreas técnicas e comerciais
+- Levantamento de requisitos com stakeholders  
+- Modelagem de processos em **BPMN**  
+- Diagramas de casos de uso e classes (**UML**)  
+- Interface entre áreas técnicas e comerciais  
 
 ---
 
