@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Ruan Fernandes Guimarães
 
-Sou um desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, apaixonado por transformar ideias em soluções funcionais, escaláveis e centradas no usuário. Atualmente, curso **Sistemas de Informação na UFLA** e atuo em projetos que envolvem desde frontend com React até backend com NestJS e .NET Core.
+Sou um desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, apaixonado por transformar ideias em soluções funcionais, escaláveis e centradas no usuário. Atualmente, curso **Sistemas de Informação na UFLA** e atuo em projetos que envolvem desde frontend com React até backend com NestJS.
 
 ---
 
