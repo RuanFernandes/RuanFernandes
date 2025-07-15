@@ -42,8 +42,8 @@ Sou um desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, a
 
 
 ### 🧠 Conhecimentos Gerais de Linguagem  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=fff)
 ---
 
 ## 📈 GitHub Stats
