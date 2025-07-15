@@ -40,6 +40,10 @@ Sou um desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, a
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge)
 
+
+### 🧠 Conhecimentos Gerais de Linguagem  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff)
 ---
 
 ## 📈 GitHub Stats
